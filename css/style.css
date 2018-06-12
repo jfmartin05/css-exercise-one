@@ -3,6 +3,7 @@ body
 }
 
 nav {
+  /* top navigation */
   background color: yellow;
   height: 100px;
   margin-top: -10px;
@@ -11,6 +12,7 @@ nav {
 }
 
 section {
+  /* body of webpage*/
   margin: 0 auto;
   width: 60%;
 }
@@ -30,6 +32,7 @@ h3 {
 }
 
 .element {
+  /* pink is the alternate color */
   background-color: green;
   height: 100px;
   margin 10px 0;
